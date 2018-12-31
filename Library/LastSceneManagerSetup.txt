@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/125/SISMUL/setelah uts/game/unity/New Unity Project 1/Assets/new1.unity
+  isLoaded: 1
+  isActive: 1
